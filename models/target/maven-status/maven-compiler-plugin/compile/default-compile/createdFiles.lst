@@ -1,0 +1,7 @@
+com\example\airline\models\Ticket.class
+com\example\airline\models\User.class
+com\example\airline\models\Seat.class
+com\example\airline\models\BookingResponse.class
+com\example\airline\models\BookingRequest.class
+com\example\airline\models\Flight.class
+com\example\airline\models\PaymentDetails.class
